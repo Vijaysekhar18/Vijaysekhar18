@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vijay Sekhar Reddy
 - 👀 I’m interested in ...Learning new technologies.
-- 🌱 I’m currently learning ...RestAssured,Devops
+- 🌱 I’m currently learning ...Devops
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... vijay.sekhar18@gmail.com and +917799335843
 
